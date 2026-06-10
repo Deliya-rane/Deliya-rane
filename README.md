@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋, I'm Deliya
 
-<!--
-**Deliya-rane/Deliya-rane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Computer Science Student
+- ☁️ AWS & Cloud Enthusiast
+- 💻 Python Developer
+- 🚀 Learning DevOps & Automation
+- 🤝 Looking to collaborate on Cloud & Python Projects
+- 🚀 AWS Certified 
 
-Here are some ideas to get you started:
+## 🌐 Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: https://linkedin.com/in/www.linkedin.com/in/deliya-rane-862325268
+- GitHub: https://github.com/Deliya-rane
+- Email: deliyarane75@gmail.com
+
+## 🛠 Skills
+
+- Python
+- AWS
+- Azure
+- Docker
+- Terraform
+- Kubernetes
+- Git & GitHub
+- Linux
+- MySql
+  
+## 🏆 Certifications
+
+- ☁️ AWS Certified Cloud Practitioner
+- 🔷 Microsoft Azure Fundamentals (AZ-900)
+- 🟠 Oracle Cloud Infrastructure Foundations Associate
+- 🚀 AWS re/Start Graduate
+- 🔐 Fundamentals of Cloud Security
+---
+## 📊 GitHub Stats
+
+![Deliya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deliya-rane&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Deliya-rane&theme=radical)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deliya-rane&layout=compact&theme=radical)
