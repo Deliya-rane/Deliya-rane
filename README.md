@@ -9,7 +9,7 @@
 
 ## 🌐 Connect with me
 
-- LinkedIn: https://linkedin.com/in/www.linkedin.com/in/deliya-rane-862325268
+- LinkedIn: www.linkedin.com/in/deliya-rane-862325268
 - GitHub: https://github.com/Deliya-rane
 - Email: deliyarane75@gmail.com
 
