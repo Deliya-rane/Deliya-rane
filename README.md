@@ -33,14 +33,5 @@
 - 🚀 AWS re/Start Graduate
 - 🔐 Fundamentals of Cloud Security
 ---
-## 📊 GitHub Stats
 
-![Deliya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deliya-rane&show_icons=true&theme=radical)
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Deliya-rane&theme=radical)
-
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deliya-rane&layout=compact&theme=radical)
